@@ -1,4 +1,4 @@
-# :smile:Olá, eu sou o Arlete!
+# :smile:Olá, eu sou Arlete!
 - :books:Estudante de Desenvolvimento de Sistemas
 - :heart:Apaixonada por tecnologia e focada em Python
 - :mortar_board:Preparando-se para o mercado de tecnologia
